@@ -1,0 +1,9 @@
+{
+	"name": "karbot",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b463ce9-79d9-4e52-baa9-a042f03698dc",
+		"tenantId": "560accde-5211-4e88-8702-e07332c5e498"
+	}
+}
